@@ -1,0 +1,6 @@
+"PRODUCT_CODE,P_ADDRESS1,Total_Amount_Financed,Total_Amount_Repaid,Number_of_Loans,Average_Loan_Tenure,Total_Payment_Delays,Total_Interest_Paid,Average_Principal_Interest_Ratio"
+"A1,ADDR1,50000,45000,3,24,2,5000,1.1"
+"A2,ADDR2,30000,28000,1,12,0,3000,1.05"
+"A3,ADDR3,75000,70000,5,36,5,7500,1.2"
+"A4,ADDR4,20000,18000,2,18,1,2000,1.08"
+"A5,ADDR5,100000,95000,4,48,3,10000,1.15"
